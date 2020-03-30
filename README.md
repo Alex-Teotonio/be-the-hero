@@ -32,7 +32,6 @@ Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz em me 
 > $ yarn ou npm install
 
 # Conectando o aplicativo ao servidor
-- [Url do servidor] (http://localhost:3333/session) 
 > cd backend 
 > npm start ou yarn start  
 
